@@ -1,0 +1,8 @@
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\bin\Debug\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA.exe.config
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\bin\Debug\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA.exe
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\bin\Debug\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA.pdb
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\obj\Debug\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA.csproj.AssemblyReference.cache
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\obj\Debug\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA.csproj.CoreCompileInputs.cache
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\obj\Debug\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA.exe
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\obj\Debug\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA.pdb
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA\obj\Debug\ÖDEV-2 ORTA SEVİYE İSİM-YAS-KARŞILAŞTIRMA.exe.config

@@ -1,0 +1,8 @@
+C:\Users\kcuma\OneDrive\Desktop\C#-Temel\Ders -3 Değişkenler\Ders -3 Değişkenler\obj\Debug\Ders -3 Değişkenler.csproj.AssemblyReference.cache
+C:\Users\kcuma\OneDrive\Desktop\C#-Temel\Ders -3 Değişkenler\Ders -3 Değişkenler\obj\Debug\Ders -3 Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\kcuma\OneDrive\Desktop\C#-Temel\Ders -3 Değişkenler\Ders -3 Değişkenler\bin\Debug\Ders -3 Değişkenler.exe.config
+C:\Users\kcuma\OneDrive\Desktop\C#-Temel\Ders -3 Değişkenler\Ders -3 Değişkenler\bin\Debug\Ders -3 Değişkenler.exe
+C:\Users\kcuma\OneDrive\Desktop\C#-Temel\Ders -3 Değişkenler\Ders -3 Değişkenler\bin\Debug\Ders -3 Değişkenler.pdb
+C:\Users\kcuma\OneDrive\Desktop\C#-Temel\Ders -3 Değişkenler\Ders -3 Değişkenler\obj\Debug\Ders -3 Değişkenler.exe
+C:\Users\kcuma\OneDrive\Desktop\C#-Temel\Ders -3 Değişkenler\Ders -3 Değişkenler\obj\Debug\Ders -3 Değişkenler.pdb
+C:\Users\kcuma\OneDrive\Desktop\C#-Temel\Ders -3 Değişkenler\Ders -3 Değişkenler\obj\Debug\Ders -3 Değişkenler.exe.config

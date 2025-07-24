@@ -1,0 +1,8 @@
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\bin\Debug\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA.exe.config
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\bin\Debug\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA.exe
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\bin\Debug\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA.pdb
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\obj\Debug\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA.csproj.AssemblyReference.cache
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\obj\Debug\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA.csproj.CoreCompileInputs.cache
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\obj\Debug\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA.exe
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\obj\Debug\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA.pdb
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA\obj\Debug\ÖDEV-1 EKRANDAN İSİM-YAS-ALMA.exe.config

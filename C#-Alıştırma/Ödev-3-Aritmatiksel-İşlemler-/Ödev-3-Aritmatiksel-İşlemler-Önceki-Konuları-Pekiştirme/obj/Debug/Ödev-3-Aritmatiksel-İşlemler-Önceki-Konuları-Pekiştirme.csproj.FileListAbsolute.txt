@@ -1,0 +1,8 @@
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\Ödev-3-Aritmatiksel-İşlemler-\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme\bin\Debug\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme.exe.config
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\Ödev-3-Aritmatiksel-İşlemler-\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme\bin\Debug\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme.exe
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\Ödev-3-Aritmatiksel-İşlemler-\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme\bin\Debug\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme.pdb
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\Ödev-3-Aritmatiksel-İşlemler-\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme\obj\Debug\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme.csproj.AssemblyReference.cache
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\Ödev-3-Aritmatiksel-İşlemler-\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme\obj\Debug\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme.csproj.CoreCompileInputs.cache
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\Ödev-3-Aritmatiksel-İşlemler-\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme\obj\Debug\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme.exe
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\Ödev-3-Aritmatiksel-İşlemler-\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme\obj\Debug\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme.pdb
+C:\Users\kcuma\OneDrive\Desktop\C#-Alıştırma\Ödev-3-Aritmatiksel-İşlemler-\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme\obj\Debug\Ödev-3-Aritmatiksel-İşlemler-Önceki-Konuları-Pekiştirme.exe.config
